@@ -1,6 +1,8 @@
 # markdown_experiments
 
 ## Домашнее задание №18
+
+----------------
 ### Установить Midnight Commander
 
 <details open="open">
